@@ -1,0 +1,9 @@
+.right-but-small-left-align {
+    text-align: right;
+  }
+
+@media (max-width: 575px) {
+    .right-but-small-left-align {
+      text-align: left;
+    }
+  }
